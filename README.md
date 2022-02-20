@@ -230,7 +230,7 @@ Publish the website in the given URL.
             </div>
         </div>
         <div class="container-fluid pt-1 bg-primary text-white width=100%">
-            <marquee bg color="aqua" behaviour="scroll direction=right loop=20 scrolldelay=20">Copyright 2021-2022 Devloped by S.ABHISHEK </marquee>
+            <marquee bg color="aqua" behaviour="scroll direction=right loop=20 scrolldelay=20">Copyright 2021-2022 Devloped by SUWETHA MURALI </marquee>
         </div>
         </div>
 </body>
@@ -605,7 +605,7 @@ Publish the website in the given URL.
 ### About us:
 ![](aboutuspage.png)
 ### Gallery:
-![](gallery.png)
+![](gallery(1).png)
 
 
 ## Result:
